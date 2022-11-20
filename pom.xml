@@ -167,7 +167,7 @@
                 <configuration>
                     <!-- Run TestNG xml file -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/runNopCommerceTest.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/runDataDriven.xml</suiteXmlFile>
                     </suiteXmlFiles>
 
                     <!-- Argument -->

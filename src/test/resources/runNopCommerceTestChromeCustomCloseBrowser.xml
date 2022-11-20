@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="NopCommerce - Suit 1">
+
+
+<listeners>
+		<listener class-name="commons.MethodListener"></listener>
+		
+
+</listeners>
+
+  <test name="Run on Chrome">	
+	<parameter name="browser" value="chrome"></parameter>
+	<parameter name="serverName" value="dev"></parameter>
+    <classes>
+
+     
+      <class name="com.nopcommerce.user.Level17_Share_Custom_Close_Browser"/>
+
+    </classes>
+  </test> 
+
+ 
+
+</suite> 

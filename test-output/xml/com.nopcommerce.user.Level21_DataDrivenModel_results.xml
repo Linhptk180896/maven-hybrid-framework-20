@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.280">
+  <properties />
+  
+  
+            <testcase name="User_03_MyAccount" time="0.085" classname="com.nopcommerce.user.Level21_DataDrivenModel" />
+                <testcase name="User_02_Login" time="2.239" classname="com.nopcommerce.user.Level21_DataDrivenModel" />
+                <testcase name="User_01_Register" time="5.956" classname="com.nopcommerce.user.Level21_DataDrivenModel" />
+      
+</testsuite>

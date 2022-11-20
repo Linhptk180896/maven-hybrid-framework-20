@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Chrome]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Run on Chrome(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.nopcommerce.user.Level21_DataDrivenModel">
+        <methods>
+          <include name="User_03_MyAccount"/>
+          <include name="User_01_Register"/>
+          <include name="afterClass"/>
+          <include name="User_02_Login"/>
+          <include name="beforeClass"/>
+          <include name="initBeforeSuite"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.Level21_DataDrivenModel -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [Chrome] -->

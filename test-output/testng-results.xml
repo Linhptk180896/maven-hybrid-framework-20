@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:27,680] Register - Step 01: Navigate to Register Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:28,359] Register - Step 02: Select Gender with value = Female
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:28,513] Register - Step 02: Enter to First Name Textbox with value = Math
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:28,656] Register - Step 03: Enter to Last Name Textbox with value = Music
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:28,796] Register - Step 03.1: Select Date of birth with Date value = 18
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:29,502] Register - Step 03.2: Select Date of birth with Month value = Aug
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:29,830] Register - Step 03.3: Select Date of birth with Year value = 1996
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:31,398] Register - Step 04: Enter to  Email Textbox with value = null140@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:31,562] Register - Step 05: Select checkbox Newsletter 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:31,662] Register - Step 05: Enter to password Textbox with value = 123456
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:31,789] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:31,942] Register - Step 07: Click To Register Button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:32,789] Register - Step 08: Verify register success message is displyed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:32,868]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:32,868] Register - Step 09: Click to logout link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:33,683] Login - Step 01: Navigate to open login page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:34,149] Login - Step 02: Enter to Email Textbox with value = null140@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:34,305] Login - Step 03: Enter to Password Textbox with value = 123456
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:34,528] Login - Step 04: Click on Login Button 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:35,269] Login - Step 05: Verify My Account Link is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:35,346]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:35,346] Login - Step 06: Navigate to my account page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:35,849] Login - Step 07: Verify CustomerInfoPage is Displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:35,918]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2022-11-19 12:35:35,923] My Account - Step 01: Verify FirstName value is correct
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-19T05:35:21Z" name="Chrome" finished-at="2022-11-19T05:35:36Z" duration-ms="14263">
+    <groups>
+    </groups>
+    <test started-at="2022-11-19T05:35:21Z" name="Run on Chrome" finished-at="2022-11-19T05:35:36Z" duration-ms="14263">
+      <class name="com.nopcommerce.user.Level21_DataDrivenModel">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level21_DataDrivenModel@3d7b1f1c]" started-at="2022-11-19T05:35:21Z" name="initBeforeSuite" finished-at="2022-11-19T05:35:21Z" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.user.Level21_DataDrivenModel@3d7b1f1c]" started-at="2022-11-19T05:35:21Z" name="beforeClass" finished-at="2022-11-19T05:35:27Z" duration-ms="5788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register()[pri:0, instance:com.nopcommerce.user.Level21_DataDrivenModel@3d7b1f1c]" started-at="2022-11-19T05:35:27Z" name="User_01_Register" finished-at="2022-11-19T05:35:33Z" duration-ms="5956" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:27,680] Register - Step 01: Navigate to Register Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:28,359] Register - Step 02: Select Gender with value = Female
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:28,513] Register - Step 02: Enter to First Name Textbox with value = Math
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:28,656] Register - Step 03: Enter to Last Name Textbox with value = Music
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:28,796] Register - Step 03.1: Select Date of birth with Date value = 18
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:29,502] Register - Step 03.2: Select Date of birth with Month value = Aug
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:29,830] Register - Step 03.3: Select Date of birth with Year value = 1996
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:31,398] Register - Step 04: Enter to  Email Textbox with value = null140@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:31,562] Register - Step 05: Select checkbox Newsletter 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:31,662] Register - Step 05: Enter to password Textbox with value = 123456
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:31,789] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:31,942] Register - Step 07: Click To Register Button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:32,789] Register - Step 08: Verify register success message is displyed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:32,868]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:32,868] Register - Step 09: Click to logout link
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method signature="User_02_Login()[pri:0, instance:com.nopcommerce.user.Level21_DataDrivenModel@3d7b1f1c]" started-at="2022-11-19T05:35:33Z" name="User_02_Login" finished-at="2022-11-19T05:35:35Z" duration-ms="2239" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:33,683] Login - Step 01: Navigate to open login page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:34,149] Login - Step 02: Enter to Email Textbox with value = null140@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:34,305] Login - Step 03: Enter to Password Textbox with value = 123456
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:34,528] Login - Step 04: Click on Login Button 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:35,269] Login - Step 05: Verify My Account Link is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:35,346]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:35,346] Login - Step 06: Navigate to my account page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:35,849] Login - Step 07: Verify CustomerInfoPage is Displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:35,918]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method signature="User_03_MyAccount()[pri:0, instance:com.nopcommerce.user.Level21_DataDrivenModel@3d7b1f1c]" started-at="2022-11-19T05:35:35Z" name="User_03_MyAccount" finished-at="2022-11-19T05:35:36Z" duration-ms="85" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2022-11-19 12:35:35,923] My Account - Step 01: Verify FirstName value is correct
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_03_MyAccount -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level21_DataDrivenModel@3d7b1f1c]" started-at="2022-11-19T05:35:36Z" name="afterClass" finished-at="2022-11-19T05:35:36Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level21_DataDrivenModel -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- Chrome -->
+</testng-results>

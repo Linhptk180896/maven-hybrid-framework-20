@@ -1,0 +1,15 @@
+[INFO ] [2022-09-18 14:17:32,026] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-18 14:17:38,800] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-18 14:17:39,161] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-18 14:17:39,454] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-18 14:17:43,893] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-18 14:17:46,386] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-18 14:17:46,396] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-18 14:17:50,001] Step 05: Send key to Post title
+[INFO ] [2022-09-18 14:17:50,781] Step 06: Send key to Post body
+[INFO ] [2022-09-18 14:17:51,936] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-18 14:17:52,299] Step 08: Click on Publish button
+[INFO ] [2022-09-18 14:17:52,616] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-18 14:17:56,315]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-18 14:17:56,547] Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-18 14:17:59,195] Step 02: Verify New published post is displayed 

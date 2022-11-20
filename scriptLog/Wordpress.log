@@ -1,0 +1,1392 @@
+[INFO ] [2022-09-18 14:38:24,831] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-18 14:38:30,805] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-18 14:38:31,089] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-18 14:38:31,368] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-18 14:38:36,369] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-18 14:38:38,265] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-18 14:38:38,274] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-18 14:38:41,793] Step 05: Send key to Post title
+[INFO ] [2022-09-18 14:38:42,547] Step 06: Send key to Post body
+[INFO ] [2022-09-18 14:38:43,689] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-18 14:38:44,045] Step 08: Click on Publish button
+[INFO ] [2022-09-18 14:38:44,621] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-18 14:38:47,942]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-18 14:38:48,130] Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-18 14:38:51,055] Step 02: Verify New published post is displayed 
+[INFO ] [2022-09-18 14:42:29,542] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-18 14:42:35,337] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-18 14:42:35,716] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-18 14:42:36,003] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-18 14:42:40,833] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-18 14:42:43,231] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-18 14:42:43,240] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-18 14:42:47,254] Step 05: Send key to Post title
+[INFO ] [2022-09-18 14:42:48,086] Step 06: Send key to Post body
+[INFO ] [2022-09-18 14:42:49,418] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-18 14:42:50,149] Step 08: Click on Publish button
+[INFO ] [2022-09-18 14:42:50,401] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-18 14:42:53,946]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-18 14:42:54,137] Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-18 14:42:56,152] Step 02: Verify New published post is displayed 
+[INFO ] [2022-09-21 20:30:04,586] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 20:38:56,478] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 20:39:02,108] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 20:39:02,398] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 20:39:02,631] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 20:39:06,634] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 20:39:09,284] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 20:39:09,298] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 20:39:19,761] Step 05: Send key to Post title
+[INFO ] [2022-09-21 20:39:20,420] Step 06: Send key to Post body
+[INFO ] [2022-09-21 20:39:21,750] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 20:39:22,162] Step 08: Click on Publish button
+[INFO ] [2022-09-21 20:39:22,530] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 20:39:26,765]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 22:58:30,620] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 22:58:44,794] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 22:58:45,342] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 22:58:45,556] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 22:58:50,772] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 22:58:59,772] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 22:58:59,815] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 22:59:11,204] Step 05: Send key to Post title
+[INFO ] [2022-09-21 22:59:14,325] Step 06: Send key to Post body
+[INFO ] [2022-09-21 22:59:21,233] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 22:59:23,100] Step 08: Click on Publish button
+[INFO ] [2022-09-21 22:59:25,624] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 22:59:32,924]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 22:59:33,181] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 22:59:35,847] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 22:59:36,300] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 22:59:39,397] Post02 - Step 04: Verify search table contains Title =  Post title 972 is displayed
+[INFO ] [2022-09-21 23:02:27,472] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:02:40,764] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:02:41,302] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:02:41,732] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:02:49,202] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:02:59,771] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:02:59,807] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:03:06,153] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:03:09,273] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:03:14,615] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:03:18,269] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:03:18,921] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:03:27,684]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:03:27,890] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:03:30,542] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:03:30,763] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:03:33,725] Post02 - Step 04: Verify search table contains Title =  Post title 974 is displayed
+[INFO ] [2022-09-21 23:22:31,440] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:22:35,731] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:22:35,880] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:22:35,999] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:22:38,350] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:22:39,617] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:22:39,624] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:22:41,865] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:22:42,297] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:22:43,217] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:22:43,525] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:22:43,899] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:22:45,890]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:22:45,954] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:22:47,086] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:22:47,250] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:22:49,185] Post02 - Step 04: Verify search table contains Title =  Post title 111 is displayed
+[INFO ] [2022-09-21 23:31:11,732] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:31:15,264] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:31:15,387] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:31:15,503] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:31:17,862] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:31:19,106] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:31:19,116] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:31:21,429] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:31:21,900] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:31:22,843] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:31:23,273] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:31:23,445] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:31:25,366]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:31:25,435] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:31:27,556] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:31:27,708] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:31:29,771] Post02 - Step 04: Verify search table contains Title =  Post title 520 is displayed
+[INFO ] [2022-09-21 23:36:07,410] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:36:10,883] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:36:11,007] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:36:11,127] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:36:13,474] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:36:14,724] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:36:14,736] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:36:17,210] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:36:17,742] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:36:18,716] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:36:19,157] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:36:19,330] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:36:21,238]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:36:21,304] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:36:22,470] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:36:22,638] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:36:24,545] Post02 - Step 04: Verify search table contains Title =  Post title 685 is displayed
+[INFO ] [2022-09-21 23:38:22,163] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:38:25,595] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:38:25,717] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:38:25,838] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:38:28,191] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:38:29,441] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:38:29,448] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:38:31,800] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:38:32,266] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:38:33,216] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:38:33,654] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:38:33,836] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:38:35,813]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:38:35,879] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:38:37,045] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:38:37,217] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:38:39,170] Post02 - Step 04: Verify search table contains Title =  Post title 713 is displayed
+[INFO ] [2022-09-21 23:38:39,288]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:38:39,288] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-21 23:46:23,972] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:46:27,468] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:46:27,594] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:46:27,747] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:46:30,145] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:46:31,417] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:46:31,423] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:46:33,834] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:46:34,258] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:46:35,253] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:46:35,717] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:46:36,060] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:46:37,868]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:46:37,945] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:46:40,092] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:46:40,252] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:46:42,195] Post02 - Step 04: Verify search table contains Title =  Post title 705 is displayed
+[INFO ] [2022-09-21 23:46:42,301]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:46:42,301] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-21 23:46:42,376]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:46:42,376] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-21 23:46:43,595] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-21 23:51:01,264] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:51:05,522] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:51:05,692] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:51:05,808] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:51:08,198] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:51:09,449] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:51:09,455] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:51:11,850] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:51:12,325] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:51:13,269] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:51:13,546] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:51:13,938] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:51:15,816]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:51:15,896] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:51:17,072] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:51:17,260] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:51:19,225] Post02 - Step 04: Verify search table contains Title =  Post title 788 is displayed
+[INFO ] [2022-09-21 23:51:19,321]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:51:19,321] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-21 23:51:19,396]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:51:19,396] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-21 23:51:20,565] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-21 23:53:13,223] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-21 23:53:17,553] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-21 23:53:17,684] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-21 23:53:17,819] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-21 23:53:20,159] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-21 23:53:21,483] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-21 23:53:21,494] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-21 23:53:23,883] Step 05: Send key to Post title
+[INFO ] [2022-09-21 23:53:24,362] Step 06: Send key to Post body
+[INFO ] [2022-09-21 23:53:25,269] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-21 23:53:25,662] Step 08: Click on Publish button
+[INFO ] [2022-09-21 23:53:26,145] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-21 23:53:28,229]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:53:28,305] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-21 23:53:30,636] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-21 23:53:30,787] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-21 23:53:32,753] Post02 - Step 04: Verify search table contains Title =  Post title 446 is displayed
+[INFO ] [2022-09-21 23:53:32,866]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:53:32,866] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-21 23:53:32,944]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-21 23:53:32,944] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-21 23:53:34,098] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:01:47,128] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:01:51,785] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:01:51,937] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:01:52,063] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:01:54,429] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:01:55,693] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:01:55,699] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:01:58,065] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:01:58,501] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:01:59,417] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:01:59,701] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:01:59,875] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:02:01,938]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:02:02,006] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:02:04,131] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:02:04,276] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:02:06,142] Post02 - Step 04: Verify search table contains Title =  Post title 253 is displayed
+[INFO ] [2022-09-22 00:02:06,222]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:02:06,223] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:02:06,302]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:02:06,302] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:02:07,387] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:04:09,332] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:04:13,475] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:04:13,600] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:04:13,721] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:04:15,967] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:04:17,259] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:04:17,265] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:04:19,672] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:04:20,091] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:04:21,062] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:04:21,524] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:04:21,709] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:04:23,613]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:04:23,688] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:04:24,873] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:04:25,032] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:04:26,949] Post02 - Step 04: Verify search table contains Title =  Post title 342 is displayed
+[INFO ] [2022-09-22 00:04:27,043]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:04:27,043] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:04:27,118]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:04:27,118] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:04:28,210] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:04:28,397] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:04:29,373] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:06:18,559] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:06:22,662] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:06:22,785] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:06:22,902] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:06:25,236] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:06:26,481] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:06:26,488] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:06:28,840] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:06:29,283] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:06:30,245] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:06:30,545] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:06:31,017] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:06:33,048]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:06:33,118] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:06:34,234] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:06:34,405] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:06:36,349] Post02 - Step 04: Verify search table contains Title =  Post title 756 is displayed
+[INFO ] [2022-09-22 00:06:36,436]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:06:36,436] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:06:36,515]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:06:36,515] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:06:37,631] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:06:37,822] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:06:38,815] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:06:38,970]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:09:08,333] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:09:12,473] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:09:12,628] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:09:12,748] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:09:15,090] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:09:16,395] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:09:16,403] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:09:18,848] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:09:19,318] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:09:20,280] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:09:20,658] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:09:21,106] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:09:23,106]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:09:23,173] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:09:25,274] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:09:25,440] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:09:27,355] Post02 - Step 04: Verify search table contains Title =  Post title 600 is displayed
+[INFO ] [2022-09-22 00:09:27,435]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:09:27,435] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:09:27,528]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:09:27,528] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:09:28,644] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:09:28,845] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:09:29,807] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:09:29,956]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:09:30,094]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:09:30,215]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-09-22 00:14:52,052] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:14:56,417] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:14:56,596] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:14:56,723] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:14:59,101] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:15:00,343] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:15:00,353] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:15:02,723] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:15:03,198] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:15:04,197] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:15:04,464] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:15:04,615] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:15:07,139]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:15:07,210] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:15:09,384] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:15:09,529] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:15:11,416] Post02 - Step 04: Verify search table contains Title =  Post title 975 is displayed
+[INFO ] [2022-09-22 00:15:11,513]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:15:11,513] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:15:11,608]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:15:11,609] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:15:12,748] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:15:12,937] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:15:13,920] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:15:14,080]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:15:14,229]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:15:14,366]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-09-22 00:16:09,303] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:16:13,988] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:16:14,157] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:16:14,276] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:16:16,619] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:16:17,888] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:16:17,896] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:16:20,254] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:16:20,792] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:16:21,747] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:16:22,198] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:16:22,619] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:16:24,770]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:16:24,841] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:16:26,100] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:16:26,236] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:16:28,217] Post02 - Step 04: Verify search table contains Title =  Post title 324 is displayed
+[INFO ] [2022-09-22 00:16:28,311]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:16:28,311] Post02 - Step 05: Verify search table contains Author =  Linhptk is displayed
+[INFO ] [2022-09-22 00:17:29,207] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:17:56,085] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:17:56,239] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:17:56,359] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:18:01,067] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:18:02,937] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:18:02,943] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:18:09,008] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:18:09,535] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:18:10,762] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:18:11,129] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:18:11,468] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:18:14,612]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:18:14,693] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:18:16,012] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:18:16,201] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:18:18,411] Post02 - Step 04: Verify search table contains Title =  Post title 215 is displayed
+[INFO ] [2022-09-22 00:18:18,488]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:18:18,488] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:18:18,563]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:18:18,563] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:18:20,790] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:21:04,747] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:21:08,855] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:21:09,027] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:21:09,150] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:21:11,511] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:21:12,785] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:21:12,791] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:21:15,151] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:21:15,616] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:21:16,571] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:21:16,799] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:21:17,215] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:21:19,355]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:21:19,473] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:21:20,684] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:21:20,851] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:21:22,788] Post02 - Step 04: Verify search table contains Title =  Post title 998 is displayed
+[INFO ] [2022-09-22 00:21:22,884]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:21:22,884] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:21:22,979]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:21:22,980] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:21:24,170] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:27:24,485] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:27:29,523] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:27:29,739] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:27:29,928] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:27:33,596] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:27:35,570] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:27:35,581] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:27:38,665] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:27:39,249] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:27:40,539] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:27:40,974] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:27:41,569] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:27:44,664]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:27:44,792] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:27:47,668] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:27:47,903] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:27:52,012] Post02 - Step 04: Verify search table contains Title =  Post title 775 is displayed
+[INFO ] [2022-09-22 00:27:52,118]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:27:52,118] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:27:52,208]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:27:52,208] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:27:53,685] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:27:53,938] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:27:55,362] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:27:55,531]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:27:55,677]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:29:34,184] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:29:40,102] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:29:40,373] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:29:40,594] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:29:45,377] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:29:47,451] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:29:47,464] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:29:50,895] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:29:51,492] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:29:52,786] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:29:53,260] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:29:53,597] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:29:56,695]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:29:56,803] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:29:58,409] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:29:58,596] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:30:01,194] Post02 - Step 04: Verify search table contains Title =  Post title 536 is displayed
+[INFO ] [2022-09-22 00:30:01,312]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:30:01,312] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:30:01,404]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:30:01,405] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:30:02,854] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:30:03,090] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:30:04,412] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:30:04,579]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:30:04,731]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:30:04,911]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:31:15,120] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:31:40,837] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:31:44,322] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:31:44,476] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:31:44,599] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:31:46,954] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:31:48,287] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:31:48,297] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:31:50,639] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:31:51,151] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:31:52,176] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:31:52,516] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:31:52,953] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:31:54,987]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:31:55,052] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:31:57,237] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:31:57,409] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:31:59,365] Post02 - Step 04: Verify search table contains Title =  Post title 55 is displayed
+[INFO ] [2022-09-22 00:31:59,445]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:31:59,445] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:31:59,519]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:31:59,519] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:32:00,691] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:32:00,889] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:32:01,982] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:32:02,137]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:32:02,277]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:32:02,431]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:35:12,028] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-22 00:35:15,496] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-22 00:35:15,665] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-22 00:35:15,789] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-22 00:35:18,125] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-22 00:35:19,414] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-22 00:35:19,420] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-22 00:35:21,753] Step 05: Send key to Post title
+[INFO ] [2022-09-22 00:35:22,265] Step 06: Send key to Post body
+[INFO ] [2022-09-22 00:35:23,207] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-22 00:35:23,672] Step 08: Click on Publish button
+[INFO ] [2022-09-22 00:35:23,879] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-22 00:35:25,783]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:35:25,850] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-22 00:35:27,019] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-22 00:35:27,187] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-22 00:35:29,143] Post02 - Step 04: Verify search table contains Title =  Post title 775 is displayed
+[INFO ] [2022-09-22 00:35:29,243]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:35:29,243] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-22 00:35:29,320]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:35:29,321] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-22 00:35:30,433] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-22 00:35:30,652] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-22 00:35:31,703] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-22 00:35:31,907]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:35:32,047]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-22 00:35:32,194]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 07:49:08,345] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 07:49:13,388] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 07:49:13,523] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 07:49:13,636] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 07:49:16,100] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 07:49:17,805] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 07:49:17,813] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 07:49:23,963] Step 05: Send key to Post title
+[INFO ] [2022-09-24 07:49:24,387] Step 06: Send key to Post body
+[INFO ] [2022-09-24 07:49:25,283] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 07:49:25,559] Step 08: Click on Publish button
+[INFO ] [2022-09-24 07:49:25,768] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-24 07:49:27,848]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 07:49:27,920] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-24 07:49:29,996] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-24 07:49:30,149] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-24 07:49:32,029] Post02 - Step 04: Verify search table contains Title =  Post title 359 is displayed
+[INFO ] [2022-09-24 07:49:32,130]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 07:49:32,130] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-24 07:49:32,206]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 07:49:32,206] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-24 07:49:33,253] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-24 07:49:33,465] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-24 07:49:34,454] Post03 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-24 07:49:34,597]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 07:49:34,737]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 07:49:34,878]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 10:49:17,934] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 10:49:22,056] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 10:49:22,238] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 10:49:22,366] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 10:49:24,768] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 10:49:26,052] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 10:49:26,059] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 10:49:28,426] Step 05: Send key to Post title
+[INFO ] [2022-09-24 10:49:28,890] Step 06: Send key to Post body
+[INFO ] [2022-09-24 10:49:29,829] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 10:51:42,838] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 10:51:47,117] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 10:51:47,286] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 10:51:47,404] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 10:51:51,903] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 10:51:54,114] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 10:51:54,119] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 10:51:58,475] Step 05: Send key to Post title
+[INFO ] [2022-09-24 10:51:58,949] Step 06: Send key to Post body
+[INFO ] [2022-09-24 10:52:00,046] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 10:57:08,455] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 10:57:12,026] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 10:57:12,162] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 10:57:12,283] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 10:57:14,557] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 10:57:15,818] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 10:57:15,825] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 10:57:18,092] Step 05: Send key to Post title
+[INFO ] [2022-09-24 10:57:18,547] Step 06: Send key to Post body
+[INFO ] [2022-09-24 10:57:19,402] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 10:59:42,844] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 10:59:46,632] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 10:59:46,805] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 10:59:46,926] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 10:59:49,543] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 10:59:51,024] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 10:59:51,031] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 10:59:53,591] Step 05: Send key to Post title
+[INFO ] [2022-09-24 10:59:54,131] Step 06: Send key to Post body
+[INFO ] [2022-09-24 10:59:55,277] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 10:59:55,637] Step 08: Click on Publish button
+[INFO ] [2022-09-24 10:59:56,126] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-24 11:02:26,262] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 11:02:30,652] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 11:02:30,804] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 11:02:30,920] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 11:02:33,327] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 11:02:34,634] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 11:02:34,643] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 11:02:37,032] Step 05: Send key to Post title
+[INFO ] [2022-09-24 11:02:37,506] Step 06: Send key to Post body
+[INFO ] [2022-09-24 11:02:38,532] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 11:02:38,837] Step 08: Click on Publish button
+[INFO ] [2022-09-24 11:02:39,267] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-24 11:02:41,611]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:02:41,690] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-24 11:02:43,013] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-24 11:02:43,196] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-24 11:02:45,421] Post02 - Step 04: Verify search table contains Title =  Post title 187 is displayed
+[INFO ] [2022-09-24 11:02:45,510]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:02:45,510] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-24 11:02:45,588]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:02:45,588] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-24 11:02:48,016] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-24 11:02:48,220] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-24 11:02:49,321] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-24 11:02:49,460]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:02:49,599]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:02:49,739]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:02:49,744] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-24 11:02:51,687] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-24 11:02:52,929] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-24 11:02:55,068] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-24 11:04:27,934] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 11:04:31,602] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 11:04:31,760] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 11:04:31,878] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 11:04:34,371] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 11:04:35,693] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 11:04:35,701] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 11:04:38,166] Step 05: Send key to Post title
+[INFO ] [2022-09-24 11:04:38,654] Step 06: Send key to Post body
+[INFO ] [2022-09-24 11:04:39,661] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 11:04:39,990] Step 08: Click on Publish button
+[INFO ] [2022-09-24 11:04:40,410] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-24 11:04:42,546]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:04:42,619] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-24 11:04:43,902] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-24 11:04:44,067] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-24 11:04:46,183] Post02 - Step 04: Verify search table contains Title =  Post title 286 is displayed
+[INFO ] [2022-09-24 11:04:46,277]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:04:46,277] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-24 11:04:46,358]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:04:46,358] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-24 11:04:47,755] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-24 11:04:47,954] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-24 11:04:49,197] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-24 11:04:49,370]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:04:49,525]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:04:49,677]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:04:49,684] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-24 11:04:51,973] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-24 11:04:53,585] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-24 11:04:56,288] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-24 11:04:56,839] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-24 11:04:57,993] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-24 11:04:58,339] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-24 11:06:03,324] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-24 11:06:07,918] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-24 11:06:08,100] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-24 11:06:08,235] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-24 11:06:10,986] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-24 11:06:12,666] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-24 11:06:12,672] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-24 11:06:15,581] Step 05: Send key to Post title
+[INFO ] [2022-09-24 11:06:16,133] Step 06: Send key to Post body
+[INFO ] [2022-09-24 11:06:17,415] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-24 11:06:17,838] Step 08: Click on Publish button
+[INFO ] [2022-09-24 11:06:18,007] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-24 11:06:21,895]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:06:21,984] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-24 11:06:24,436] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-24 11:06:24,617] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-24 11:06:27,082] Post02 - Step 04: Verify search table contains Title =  Post title 32 is displayed
+[INFO ] [2022-09-24 11:06:27,214]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:06:27,214] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-24 11:06:27,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:06:27,293] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-24 11:06:28,764] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-24 11:06:29,011] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-24 11:06:30,360] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-24 11:06:30,528]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:06:30,673]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:06:30,825]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-24 11:06:30,835] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-24 11:06:32,285] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-24 11:06:34,360] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-24 11:06:38,445] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-24 11:06:39,090] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-24 11:06:40,309] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-24 11:06:40,643] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-24 11:06:43,296] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-24 11:06:45,327] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-24 11:06:45,574] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-24 11:06:48,596] Post02 - Step 04: Verify search table contains Title =  Post title edit 32 is displayed
+[INFO ] [2022-09-25 22:47:14,938] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 22:49:00,243] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 22:49:04,723] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 22:49:04,914] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 22:49:05,110] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 22:49:12,122] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 22:49:14,882] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 22:49:14,888] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 22:49:21,699] Step 05: Send key to Post title
+[INFO ] [2022-09-25 22:49:22,124] Step 06: Send key to Post body
+[INFO ] [2022-09-25 22:49:23,047] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 22:49:23,365] Step 08: Click on Publish button
+[INFO ] [2022-09-25 22:49:23,681] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 22:49:26,495]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:26,573] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 22:49:27,897] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 22:49:28,184] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 22:49:30,656] Post02 - Step 04: Verify search table contains Title =  Post title 20 is displayed
+[INFO ] [2022-09-25 22:49:30,765]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:30,765] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-25 22:49:30,844]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:30,844] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-25 22:49:32,352] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-25 22:49:32,583] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-25 22:49:33,687] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-25 22:49:33,832]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:33,975]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:34,115]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:34,123] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-25 22:49:35,373] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-25 22:49:36,731] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-25 22:49:39,052] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-25 22:49:39,643] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-25 22:49:41,008] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-25 22:49:41,316] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-25 22:49:42,962] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 22:49:44,647] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 22:49:44,798] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 22:49:47,618] Post02 - Step 04: Verify search table contains Title =  Post title edit 20 is displayed
+[INFO ] [2022-09-25 22:49:47,710]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:47,711] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-25 22:49:47,820]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:47,820] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-25 22:49:48,883] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-25 22:49:49,215] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-25 22:49:50,460] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-25 22:49:50,610]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:50,766]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:50,934]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 22:49:50,943] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-25 22:49:52,159] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-25 22:49:53,449] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-25 23:16:12,719] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 23:16:16,808] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 23:16:16,988] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 23:16:17,133] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 23:16:20,184] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 23:16:21,623] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 23:16:21,637] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 23:16:24,376] Step 05: Send key to Post title
+[INFO ] [2022-09-25 23:16:24,988] Step 06: Send key to Post body
+[INFO ] [2022-09-25 23:16:26,301] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 23:16:26,806] Step 08: Click on Publish button
+[INFO ] [2022-09-25 23:16:27,002] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 23:16:29,010]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:16:29,122] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 23:16:31,367] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 23:16:31,539] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 23:16:33,718] Post02 - Step 04: Verify search table contains Title =  Post title 55 is displayed
+[INFO ] [2022-09-25 23:16:33,801]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:16:33,801] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-25 23:16:33,886]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:16:33,886] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-25 23:16:35,059] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-25 23:16:35,323] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-25 23:16:36,390] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-25 23:16:36,540]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:16:36,683]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:16:36,840]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:16:36,850] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-25 23:16:38,089] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-25 23:16:39,582] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-25 23:16:42,070] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-25 23:16:42,556] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-25 23:16:43,606] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-25 23:16:43,867] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-25 23:16:45,520] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 23:16:47,894] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 23:16:48,100] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 23:16:50,236] Post02 - Step 04: Verify search table contains Title =  Post title edit 55 is displayed
+[INFO ] [2022-09-25 23:51:23,134] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 23:51:26,818] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 23:51:26,962] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 23:51:27,083] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 23:51:29,357] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 23:51:30,586] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 23:51:30,592] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 23:51:32,825] Step 05: Send key to Post title
+[INFO ] [2022-09-25 23:51:33,287] Step 06: Send key to Post body
+[INFO ] [2022-09-25 23:51:34,119] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 23:51:34,393] Step 08: Click on Publish button
+[INFO ] [2022-09-25 23:51:34,618] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 23:51:36,672]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:51:56,867] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 23:52:00,319] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 23:52:00,476] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 23:52:00,598] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 23:52:02,940] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 23:52:04,208] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 23:52:04,215] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 23:52:06,504] Step 05: Send key to Post title
+[INFO ] [2022-09-25 23:52:06,924] Step 06: Send key to Post body
+[INFO ] [2022-09-25 23:52:07,822] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 23:52:08,106] Step 08: Click on Publish button
+[INFO ] [2022-09-25 23:52:08,529] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 23:52:10,493]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:52:40,343] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 23:52:43,748] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 23:52:43,886] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 23:52:44,008] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 23:52:46,339] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 23:52:47,610] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 23:52:47,617] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 23:52:49,930] Step 05: Send key to Post title
+[INFO ] [2022-09-25 23:52:50,392] Step 06: Send key to Post body
+[INFO ] [2022-09-25 23:52:51,320] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 23:52:51,657] Step 08: Click on Publish button
+[INFO ] [2022-09-25 23:52:52,080] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 23:52:54,128]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:54:10,731] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 23:54:14,178] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 23:54:14,298] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 23:54:14,419] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 23:54:16,918] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 23:54:18,200] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 23:54:18,207] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 23:54:20,544] Step 05: Send key to Post title
+[INFO ] [2022-09-25 23:54:20,992] Step 06: Send key to Post body
+[INFO ] [2022-09-25 23:54:21,951] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 23:54:22,261] Step 08: Click on Publish button
+[INFO ] [2022-09-25 23:54:22,682] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 23:54:24,618]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:54:24,686] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 23:54:25,901] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 23:54:26,090] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 23:54:28,091] Post02 - Step 04: Verify search table contains Title =  Post title 271 is displayed
+[INFO ] [2022-09-25 23:56:38,398] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-25 23:56:41,822] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-25 23:56:41,946] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-25 23:56:42,069] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-25 23:56:44,562] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-25 23:56:45,806] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-25 23:56:45,815] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-25 23:56:48,059] Step 05: Send key to Post title
+[INFO ] [2022-09-25 23:56:48,543] Step 06: Send key to Post body
+[INFO ] [2022-09-25 23:56:49,441] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-25 23:56:49,757] Step 08: Click on Publish button
+[INFO ] [2022-09-25 23:56:50,135] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-25 23:56:52,062]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:56:52,135] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 23:56:53,285] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 23:56:53,442] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 23:56:55,363] Post02 - Step 04: Verify search table contains Title =  Post title 888 is displayed
+[INFO ] [2022-09-25 23:56:55,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:56:55,457] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-25 23:56:55,534]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:56:55,534] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-25 23:56:56,703] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-25 23:56:56,889] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-25 23:56:57,892] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-25 23:56:58,079]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:56:58,217]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:56:58,341]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:56:58,346] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-25 23:56:59,447] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-25 23:57:00,639] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-25 23:57:02,573] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-25 23:57:03,043] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-25 23:57:03,879] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-25 23:57:04,053] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-25 23:57:05,556] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-25 23:57:07,689] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-25 23:57:07,835] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-25 23:57:09,721] Post02 - Step 04: Verify search table contains Title =  Post title edit 888 is displayed
+[INFO ] [2022-09-25 23:57:09,802]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:57:09,802] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-25 23:57:09,877]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:57:09,877] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-25 23:57:10,787] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-25 23:57:10,976] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-25 23:57:11,971] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-25 23:57:12,127]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:57:12,266]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:57:12,390]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-25 23:57:12,396] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-25 23:57:13,514] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-25 23:57:14,673] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-26 00:21:31,807] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-26 00:21:35,813] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-26 00:21:35,957] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-26 00:21:36,076] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-26 00:21:38,648] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-26 00:21:39,952] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-26 00:21:39,959] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-26 00:21:42,144] Step 05: Send key to Post title
+[INFO ] [2022-09-26 00:21:42,590] Step 06: Send key to Post body
+[INFO ] [2022-09-26 00:21:43,521] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-26 00:21:43,814] Step 08: Click on Publish button
+[INFO ] [2022-09-26 00:21:44,173] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-26 00:21:46,091]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:21:46,154] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:21:47,254] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:21:47,420] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:21:49,313] Post02 - Step 04: Verify search table contains Title =  Post title 934 is displayed
+[INFO ] [2022-09-26 00:21:49,399]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:21:49,399] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:21:49,475]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:21:49,475] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:21:50,539] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:21:50,746] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:21:51,737] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:21:51,885]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:21:52,025]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:21:52,169]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:21:52,174] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:21:53,298] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:21:54,496] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-26 00:21:56,402] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:21:56,782] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:21:57,645] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-26 00:21:57,831] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-26 00:21:59,253] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:22:00,390] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:22:00,530] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:22:02,390] Post02 - Step 04: Verify search table contains Title =  Post title edit 934 is displayed
+[INFO ] [2022-09-26 00:22:02,463]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:22:02,463] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:22:02,540]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:22:02,540] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:22:03,393] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:22:03,587] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:22:04,530] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:22:04,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:22:04,817]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:22:04,972]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:22:04,977] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:22:06,093] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:22:07,283] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-26 00:24:56,445] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-26 00:25:00,464] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-26 00:25:00,601] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-26 00:25:00,721] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-26 00:25:02,985] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-26 00:25:04,168] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-26 00:25:04,175] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-26 00:25:06,384] Step 05: Send key to Post title
+[INFO ] [2022-09-26 00:25:06,839] Step 06: Send key to Post body
+[INFO ] [2022-09-26 00:25:07,704] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-26 00:25:07,998] Step 08: Click on Publish button
+[INFO ] [2022-09-26 00:25:08,418] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-26 00:25:10,224]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:10,299] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:25:11,411] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:25:11,567] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:25:13,433] Post02 - Step 04: Verify search table contains Title =  Post title 612 is displayed
+[INFO ] [2022-09-26 00:25:13,515]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:13,515] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:25:13,593]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:13,593] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:25:14,659] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:25:14,861] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:25:15,847] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:25:15,990]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:16,131]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:16,272]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:16,277] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:25:17,370] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:25:18,482] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-26 00:25:20,429] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:25:20,857] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:25:21,664] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-26 00:25:21,815] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-26 00:25:23,252] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:25:25,362] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:25:25,514] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:25:27,303] Post02 - Step 04: Verify search table contains Title =  Post title edit 612 is displayed
+[INFO ] [2022-09-26 00:25:27,383]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:27,383] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:25:27,461]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:27,461] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:25:28,319] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:25:28,515] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:25:29,440] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:25:29,587]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:29,730]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:29,870]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:25:29,875] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:25:30,975] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:25:32,155] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-26 00:25:32,305] Post03 - Step 03: Click on Bulk actions dropdown
+[INFO ] [2022-09-26 00:25:32,423] Post03 - Step 03: Click on Move to trash action
+[INFO ] [2022-09-26 00:25:32,533] Post03 - Step 03: Click on Apply button
+[INFO ] [2022-09-26 00:25:34,483] Post03 - Step 03: Verify message '1 post moved to the Trash' is displayed
+[INFO ] [2022-09-26 00:25:34,555] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:25:34,698] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:25:36,523] Post02 - Step 03: Verify 'No posts found.' is displayed
+[INFO ] [2022-09-26 00:25:36,585] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:25:37,435] Post02 - Step 07: Enter to User search textbox
+[INFO ] [2022-09-26 00:25:37,566] Post02 - Step 07: Click on Search button
+[INFO ] [2022-09-26 00:25:38,513] Post02 - Step 07: Verify message 'Nothing Found'is displayed
+[INFO ] [2022-09-26 00:26:17,428] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-26 00:26:21,579] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-26 00:26:21,703] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-26 00:26:21,823] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-26 00:26:24,084] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-26 00:26:25,272] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-26 00:26:25,279] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-26 00:26:27,540] Step 05: Send key to Post title
+[INFO ] [2022-09-26 00:26:28,077] Step 06: Send key to Post body
+[INFO ] [2022-09-26 00:26:29,016] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-26 00:26:29,309] Step 08: Click on Publish button
+[INFO ] [2022-09-26 00:26:29,707] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-26 00:26:31,543]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:31,623] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:26:32,738] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:26:32,928] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:26:34,839] Post02 - Step 04: Verify search table contains Title =  Post title 918 is displayed
+[INFO ] [2022-09-26 00:26:34,947]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:34,947] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:26:35,024]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:35,024] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:26:36,127] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:26:36,330] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:26:37,304] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:26:37,458]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:37,599]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:37,736]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:37,741] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:26:38,839] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:26:40,175] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-26 00:26:42,355] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:26:42,860] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:26:43,896] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-26 00:26:44,201] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-26 00:26:46,104] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:26:47,383] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:26:47,564] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:26:49,780] Post02 - Step 04: Verify search table contains Title =  Post title edit 918 is displayed
+[INFO ] [2022-09-26 00:26:49,856]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:49,856] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:26:49,935]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:49,935] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:26:50,919] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:26:51,122] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:26:52,127] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:26:52,268]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:52,407]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:52,547]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:26:52,552] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:26:53,680] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:26:54,951] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-26 00:26:55,086] Post03 - Step 03: Click on Bulk actions dropdown
+[INFO ] [2022-09-26 00:26:55,200] Post03 - Step 03: Click on Move to trash action
+[INFO ] [2022-09-26 00:26:55,313] Post03 - Step 03: Click on Apply button
+[INFO ] [2022-09-26 00:26:57,322] Post03 - Step 03: Verify message '1 post moved to the Trash' is displayed
+[INFO ] [2022-09-26 00:26:57,384] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:26:57,528] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:26:59,417] Post02 - Step 03: Verify 'No posts found.' is displayed
+[INFO ] [2022-09-26 00:26:59,488] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:27:00,427] Post02 - Step 07: Enter to User search textbox
+[INFO ] [2022-09-26 00:27:00,568] Post02 - Step 07: Click on Search button
+[INFO ] [2022-09-26 00:27:01,497] Post02 - Step 07: Verify message 'Nothing Found'is displayed
+[INFO ] [2022-09-26 00:28:16,443] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-26 00:28:20,503] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-26 00:28:20,662] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-26 00:28:20,779] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-26 00:28:23,082] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-26 00:28:24,312] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-26 00:28:24,318] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-26 00:28:26,605] Step 05: Send key to Post title
+[INFO ] [2022-09-26 00:28:27,087] Step 06: Send key to Post body
+[INFO ] [2022-09-26 00:28:28,000] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-26 00:28:28,429] Step 08: Click on Publish button
+[INFO ] [2022-09-26 00:28:28,632] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-26 00:28:30,592]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:30,667] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:28:31,784] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:28:31,943] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:28:33,843] Post02 - Step 04: Verify search table contains Title =  Post title 339 is displayed
+[INFO ] [2022-09-26 00:28:33,930]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:33,930] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:28:34,007]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:34,007] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:28:35,073] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:28:35,272] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:28:36,241] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:28:36,384]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:36,524]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:36,644]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:36,649] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:28:37,698] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:28:38,845] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-26 00:28:40,794] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:28:41,224] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:28:42,043] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-26 00:28:42,237] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-26 00:28:43,680] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:28:44,850] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:28:45,000] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:28:46,908] Post02 - Step 04: Verify search table contains Title =  Post title edit 339 is displayed
+[INFO ] [2022-09-26 00:28:46,988]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:46,989] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:28:47,065]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:47,065] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:28:47,965] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:28:48,160] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:28:49,137] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:28:49,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:49,420]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:49,562]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:28:49,566] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:28:51,414] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:28:52,567] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-26 00:29:43,917] Pre-Condition - Step 01: Open browser and navigate to Admin login page 
+[INFO ] [2022-09-26 00:29:47,325] Pre-Condition - Step 02: Enter Email linhptk
+[INFO ] [2022-09-26 00:29:47,448] Pre-Condition - Step 03: Enter Email Linh1808/
+[INFO ] [2022-09-26 00:29:47,566] Pre-Conditon - Step 04: Click on btn Login and navigate to Admin Dashboard Page
+[INFO ] [2022-09-26 00:29:49,826] Step: 01: click on Post menu and navigate to Admin Search Post Page 
+[INFO ] [2022-09-26 00:29:51,063] Step 02: Get Admin Search Post Url
+[INFO ] [2022-09-26 00:29:51,074] Step 02: click on Add new  button and navigate to Admin New Post Page 
+[INFO ] [2022-09-26 00:29:53,353] Step 05: Send key to Post title
+[INFO ] [2022-09-26 00:29:53,823] Step 06: Send key to Post body
+[INFO ] [2022-09-26 00:29:54,736] Step 07: Click on Pre-Publish button
+[INFO ] [2022-09-26 00:29:55,001] Step 08: Click on Publish button
+[INFO ] [2022-09-26 00:29:55,391] Step 09: Verify Post Published message is displayed
+[INFO ] [2022-09-26 00:29:57,282]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:29:57,342] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:29:59,512] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:29:59,668] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:30:01,576] Post02 - Step 04: Verify search table contains Title =  Post title 416 is displayed
+[INFO ] [2022-09-26 00:30:01,649]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:01,649] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:30:01,727]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:01,727] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:30:02,814] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:30:03,029] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:30:04,031] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:30:04,182]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:04,321]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:04,458]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:04,463] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:30:05,609] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:30:06,802] Post03 - Step 04: Click on Post title
+[INFO ] [2022-09-26 00:30:08,784] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:30:09,199] Post03 - Step 05: Edit Post body
+[INFO ] [2022-09-26 00:30:10,068] Post03 - Step 06: Click on Update button
+[INFO ] [2022-09-26 00:30:10,262] Post03 - Step 06: Verify post updated message displayed
+[INFO ] [2022-09-26 00:30:11,790] Post01 - Step 01: Open Admin Search Post Page 
+[INFO ] [2022-09-26 00:30:12,982] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:30:13,159] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:30:15,095] Post02 - Step 04: Verify search table contains Title =  Post title edit 416 is displayed
+[INFO ] [2022-09-26 00:30:15,168]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:15,168] Post02 - Step 05: Verify search table contains Author =  linhptk is displayed
+[INFO ] [2022-09-26 00:30:15,247]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:15,247] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:30:16,155] Post02 - Step 08: Verify post info display at homepage
+[INFO ] [2022-09-26 00:30:16,352] Post02 - Step 09: Click to post title
+[INFO ] [2022-09-26 00:30:17,339] Post02 - Step 09: Verify post info display at post detail page
+[INFO ] [2022-09-26 00:30:17,482]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:17,619]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:17,791]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-26 00:30:17,796] Post03 - Step 01: Open Admin Url
+[INFO ] [2022-09-26 00:30:18,955] Post03 - Step 02: Click on Post Menu
+[INFO ] [2022-09-26 00:30:20,124] Post03 - Step 03: Click on Post checkbox
+[INFO ] [2022-09-26 00:30:20,268] Post03 - Step 03: Click on Bulk actions dropdown
+[INFO ] [2022-09-26 00:30:20,407] Post03 - Step 03: Click on Move to trash action
+[INFO ] [2022-09-26 00:30:20,500] Post03 - Step 03: Click on Apply button
+[INFO ] [2022-09-26 00:30:22,527] Post03 - Step 03: Verify message '1 post moved to the Trash' is displayed
+[INFO ] [2022-09-26 00:30:22,595] Post02 - Step 02: Enter to Search textbox
+[INFO ] [2022-09-26 00:30:22,758] Post02 - Step 03: Click on Search Posts Button
+[INFO ] [2022-09-26 00:30:24,716] Post02 - Step 03: Verify 'No posts found.' is displayed
+[INFO ] [2022-09-26 00:30:24,787] Post02 - Step 07: Open EndUser Page
+[INFO ] [2022-09-26 00:30:25,692] Post02 - Step 07: Enter to User search textbox
+[INFO ] [2022-09-26 00:30:25,820] Post02 - Step 07: Click on Search button
+[INFO ] [2022-09-26 00:30:26,773] Post02 - Step 07: Verify message 'Nothing Found'is displayed
+[INFO ] [2022-11-09 00:39:43,758] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-09 00:39:44,315] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-09 00:39:44,478] Register - Step 02: Enter to First Name Textbox with value = Jakson
+[INFO ] [2022-11-09 00:39:44,622] Register - Step 03: Enter to Last Name Textbox with value = Wang
+[INFO ] [2022-11-09 00:39:44,749] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-09 00:39:45,410] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-09 00:39:45,765] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-09 00:39:47,197] Register - Step 04: Enter to  Email Textbox with value = null794@gmail.com
+[INFO ] [2022-11-09 00:39:47,375] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-09 00:39:47,459] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-09 00:39:47,582] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-09 00:39:47,725] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-09 00:39:48,647] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-09 00:39:48,710]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-09 00:39:48,710] Register - Step 09: Click to logout link
+[INFO ] [2022-11-09 00:39:49,435] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-09 00:39:49,865] Login - Step 02: Enter to Email Textbox with value = null794@gmail.com
+[INFO ] [2022-11-09 00:39:50,011] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-09 00:39:50,132] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-09 00:39:50,796] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-09 00:39:50,884]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-09 00:39:50,884] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-09 00:39:51,417] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-09 00:39:51,477]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-09 00:39:51,482] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-18 23:52:30,542] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-18 23:52:31,324] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-18 23:52:31,599] Register - Step 02: Enter to First Name Textbox with value = Jakson
+[INFO ] [2022-11-18 23:52:31,816] Register - Step 03: Enter to Last Name Textbox with value = Wang
+[INFO ] [2022-11-18 23:52:32,042] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-18 23:52:32,989] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-18 23:52:33,614] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-18 23:52:36,193] Register - Step 04: Enter to  Email Textbox with value = null352@gmail.com
+[INFO ] [2022-11-18 23:52:36,443] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-18 23:52:36,558] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-18 23:52:36,768] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-18 23:52:36,998] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-18 23:52:37,890] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-18 23:52:37,978]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-18 23:52:37,978] Register - Step 09: Click to logout link
+[INFO ] [2022-11-18 23:52:39,071] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-18 23:52:39,608] Login - Step 02: Enter to Email Textbox with value = null352@gmail.com
+[INFO ] [2022-11-18 23:52:39,841] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-18 23:52:40,056] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-18 23:52:40,811] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-18 23:52:40,935]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-18 23:52:40,936] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-18 23:52:41,572] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-18 23:52:41,692]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-18 23:52:41,703] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-18 23:53:55,480] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-18 23:53:57,753] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-18 23:53:57,968] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-18 23:53:58,179] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-18 23:53:58,400] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-18 23:53:59,252] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-18 23:53:59,723] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-18 23:54:02,281] Register - Step 04: Enter to  Email Textbox with value = null806@gmail.com
+[INFO ] [2022-11-18 23:54:02,520] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-18 23:54:02,632] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-18 23:54:02,864] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-18 23:54:03,144] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-18 23:54:05,638] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-18 23:54:05,725]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-18 23:54:05,726] Register - Step 09: Click to logout link
+[INFO ] [2022-11-18 23:54:06,862] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-18 23:54:07,457] Login - Step 02: Enter to Email Textbox with value = null806@gmail.com
+[INFO ] [2022-11-18 23:54:07,690] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-18 23:54:07,894] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-18 23:54:08,752] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-18 23:54:08,858]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-18 23:54:08,858] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-18 23:54:11,697] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-18 23:54:11,822]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-18 23:54:11,831] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-19 01:17:39,511] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-19 01:17:40,334] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-19 01:17:40,746] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-19 01:17:41,158] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-19 01:17:41,483] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-19 01:17:42,691] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-19 01:17:43,361] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-19 01:17:46,336] Register - Step 04: Enter to  Email Textbox with value = null347@gmail.com
+[INFO ] [2022-11-19 01:17:46,720] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-19 01:17:46,948] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-19 01:17:47,328] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-19 01:17:47,703] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-19 01:17:48,975] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-19 01:17:49,186]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 01:17:49,187] Register - Step 09: Click to logout link
+[INFO ] [2022-11-19 01:17:50,853] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-19 01:17:51,505] Login - Step 02: Enter to Email Textbox with value = null347@gmail.com
+[INFO ] [2022-11-19 01:17:51,805] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-19 01:17:52,087] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-19 01:17:53,204] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-19 01:17:53,369]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 01:17:53,370] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-19 01:17:54,339] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-19 01:17:54,577]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 01:17:54,590] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-19 01:22:43,504] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-19 01:22:44,325] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-19 01:22:44,730] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-19 01:22:45,092] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-19 01:22:45,334] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-19 01:22:46,788] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-19 01:22:47,553] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-19 01:22:51,201] Register - Step 04: Enter to  Email Textbox with value = null817@gmail.com
+[INFO ] [2022-11-19 01:22:51,590] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-19 01:22:51,815] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-19 01:22:52,108] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-19 01:22:52,384] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-19 01:22:53,489] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-19 01:22:53,612]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 01:22:53,612] Register - Step 09: Click to logout link
+[INFO ] [2022-11-19 01:22:55,090] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-19 01:22:55,863] Login - Step 02: Enter to Email Textbox with value = null817@gmail.com
+[INFO ] [2022-11-19 01:22:56,274] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-19 01:22:56,503] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-19 01:22:57,744] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-19 01:22:57,876]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 01:22:57,876] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-19 01:22:58,552] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-19 01:22:58,709]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 01:22:58,720] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-19 12:12:48,733] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-19 12:12:49,814] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-19 12:12:50,148] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-19 12:12:50,534] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-19 12:12:50,964] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-19 12:12:52,009] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-19 12:12:52,849] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-19 12:12:56,678] Register - Step 04: Enter to  Email Textbox with value = null798@gmail.com
+[INFO ] [2022-11-19 12:12:57,087] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-19 12:12:57,286] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-19 12:12:57,707] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-19 12:12:58,147] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-19 12:12:59,535] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-19 12:12:59,734]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:12:59,735] Register - Step 09: Click to logout link
+[INFO ] [2022-11-19 12:13:01,228] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-19 12:13:01,922] Login - Step 02: Enter to Email Textbox with value = null798@gmail.com
+[INFO ] [2022-11-19 12:13:02,367] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-19 12:13:02,715] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-19 12:13:03,861] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-19 12:13:04,059]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:13:04,059] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-19 12:13:04,863] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-19 12:13:05,061]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:13:05,069] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-19 12:28:53,812] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-19 12:28:54,394] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-19 12:28:54,519] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-19 12:28:54,652] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-19 12:28:54,818] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-19 12:28:55,472] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-19 12:28:55,799] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-19 12:28:57,232] Register - Step 04: Enter to  Email Textbox with value = null239@gmail.com
+[INFO ] [2022-11-19 12:28:57,409] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-19 12:28:57,496] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-19 12:28:57,633] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-19 12:28:57,810] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-19 12:28:58,659] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-19 12:28:58,730]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:28:58,730] Register - Step 09: Click to logout link
+[INFO ] [2022-11-19 12:28:59,598] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-19 12:29:00,034] Login - Step 02: Enter to Email Textbox with value = null239@gmail.com
+[INFO ] [2022-11-19 12:29:00,161] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-19 12:29:00,286] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-19 12:29:00,946] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-19 12:29:01,015]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:29:01,015] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-19 12:29:01,561] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-19 12:29:01,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:29:01,627] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-19 12:32:31,951] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-19 12:32:32,492] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-19 12:32:32,645] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-19 12:32:32,767] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-19 12:32:32,898] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-19 12:32:33,526] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-19 12:32:33,854] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-19 12:32:35,292] Register - Step 04: Enter to  Email Textbox with value = null740@gmail.com
+[INFO ] [2022-11-19 12:32:35,448] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-19 12:32:35,557] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-19 12:32:35,727] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-19 12:32:35,879] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-19 12:32:37,907] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-19 12:32:37,971]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:32:37,971] Register - Step 09: Click to logout link
+[INFO ] [2022-11-19 12:32:38,824] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-19 12:32:39,278] Login - Step 02: Enter to Email Textbox with value = null740@gmail.com
+[INFO ] [2022-11-19 12:32:39,430] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-19 12:32:39,563] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-19 12:32:40,226] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-19 12:32:40,290]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:32:40,290] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-19 12:32:42,669] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-19 12:32:42,764]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:32:42,772] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-19 12:35:27,680] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-19 12:35:28,359] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-19 12:35:28,513] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-19 12:35:28,656] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-19 12:35:28,796] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-19 12:35:29,502] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-19 12:35:29,830] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-19 12:35:31,398] Register - Step 04: Enter to  Email Textbox with value = null140@gmail.com
+[INFO ] [2022-11-19 12:35:31,562] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-19 12:35:31,662] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-19 12:35:31,789] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-19 12:35:31,942] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-19 12:35:32,789] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-19 12:35:32,868]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:35:32,868] Register - Step 09: Click to logout link
+[INFO ] [2022-11-19 12:35:33,683] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-19 12:35:34,149] Login - Step 02: Enter to Email Textbox with value = null140@gmail.com
+[INFO ] [2022-11-19 12:35:34,305] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-19 12:35:34,528] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-19 12:35:35,269] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-19 12:35:35,346]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:35:35,346] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-19 12:35:35,849] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-19 12:35:35,918]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-19 12:35:35,923] My Account - Step 01: Verify FirstName value is correct

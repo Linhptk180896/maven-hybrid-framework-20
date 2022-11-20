@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="WordPress">
+ <listeners>
+ <listener class-name="commons.MethodListener"></listener>
+ <listener class-name="reportConfig.reportNGListener"/>
+
+ </listeners>
+ 
+ <parameter name="adminUrl" value="https://localhost/linhptk/wp-admin/"></parameter>
+ <parameter name="userUrl" value="https://localhost/linhptk/"></parameter>
+ <test name="Run on Chrome">	
+ <parameter name="browserName" value="chrome"></parameter>
+ <packages>
+ <package name="com.wordpress.posts"></package>
+ </packages>
+ </test> 
+ 
+<!--
+<parameter name="adminUrl" value="https://localhost/linhptk/wp-admin/"></parameter>
+  <parameter name="userUrl" value="https://localhost/linhptk/"></parameter>
+ <test name="Run on Firefox">	
+ <parameter name="browserName" value="firefox"></parameter>
+ <packages>
+ <package name="testcases.com.wordpress.posts"></package>
+ </packages>
+ </test> 
+  
+  
+ <parameter name="adminUrl" value="https://localhost/linhptk/wp-admin/"></parameter> 
+ <parameter name="userUrl" value="https://localhost/linhptk/"></parameter>
+ <test name="Run on Edge">	
+ <parameter name="browserName" value="Edge"></parameter>
+ <packages>
+ <package name="testcases.com.wordpress.posts"></package>
+ </packages>
+ </test>  -->  
+ 
+</suite> 
+

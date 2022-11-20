@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="jQuery">
+
+
+
+<parameter name="url" value="https://blueimp.github.io/jQuery-File-Upload/"></parameter>
+  <test name="Run on Chrome">	
+	<parameter name="browser" value="chrome"></parameter>
+	
+    <classes>
+      <class name="com.jquery.uploadFile.Level_11_Upload_MultiFile"/>
+    </classes>
+  </test> 
+</suite> 
