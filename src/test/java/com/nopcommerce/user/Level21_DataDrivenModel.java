@@ -142,9 +142,10 @@ public class Level21_DataDrivenModel extends BaseTest{
 		customerInfoPage = homePage.openMyAccountPage();
 		
 		log.info("Login - Step 07: Verify CustomerInfoPage is Displayed" );
-		verifyTrue(customerInfoPage.isCustomerInfoPageDisplayed());
+		verifyFalse(customerInfoPage.isCustomerInfoPageDisplayed());
 		
 	}
+
 	
 	@Test
 	public void User_03_MyAccount() {

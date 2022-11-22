@@ -1390,3 +1390,80 @@
 [INFO ] [2022-11-19 12:35:35,849] Login - Step 07: Verify CustomerInfoPage is Displayed
 [INFO ] [2022-11-19 12:35:35,918]  -------------------------- PASSED -------------------------- 
 [INFO ] [2022-11-19 12:35:35,923] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-20 10:18:08,176] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-20 10:18:08,752] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-20 10:18:08,924] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-20 10:18:09,090] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-20 10:18:09,278] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-20 10:18:10,023] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-20 10:18:10,377] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-20 10:18:11,993] Register - Step 04: Enter to  Email Textbox with value = null162@gmail.com
+[INFO ] [2022-11-20 10:18:12,197] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-20 10:18:12,307] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-20 10:18:12,505] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-20 10:18:12,658] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-20 10:18:13,496] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-20 10:18:13,562]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:18:13,562] Register - Step 09: Click to logout link
+[INFO ] [2022-11-20 10:18:14,461] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-20 10:18:14,893] Login - Step 02: Enter to Email Textbox with value = null162@gmail.com
+[INFO ] [2022-11-20 10:18:15,041] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-20 10:18:15,204] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-20 10:18:15,928] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-20 10:18:16,022]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:18:16,022] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-20 10:18:16,542] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-20 10:18:16,624]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:18:16,628] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-20 10:19:44,879] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-20 10:19:45,782] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-20 10:19:46,079] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-20 10:19:46,378] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-20 10:19:46,515] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-20 10:19:47,237] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-20 10:19:47,805] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-20 10:19:49,629] Register - Step 04: Enter to  Email Textbox with value = null352@gmail.com
+[INFO ] [2022-11-20 10:19:49,984] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-20 10:19:50,091] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-20 10:19:50,256] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-20 10:19:50,430] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-20 10:19:51,516] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-20 10:19:51,578]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:19:51,578] Register - Step 09: Click to logout link
+[INFO ] [2022-11-20 10:19:52,671] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-20 10:19:53,130] Login - Step 02: Enter to Email Textbox with value = null352@gmail.com
+[INFO ] [2022-11-20 10:19:53,280] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-20 10:19:53,432] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-20 10:19:54,131] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-20 10:19:54,200]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:19:54,200] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-20 10:19:54,707] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-20 10:19:54,772]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:19:54,773]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-11-20 10:19:54,952] My Account - Step 01: Verify FirstName value is correct
+[INFO ] [2022-11-20 10:22:52,055] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-11-20 10:22:52,642] Register - Step 02: Select Gender with value = Female
+[INFO ] [2022-11-20 10:22:52,789] Register - Step 02: Enter to First Name Textbox with value = Math
+[INFO ] [2022-11-20 10:22:52,949] Register - Step 03: Enter to Last Name Textbox with value = Music
+[INFO ] [2022-11-20 10:22:53,142] Register - Step 03.1: Select Date of birth with Date value = 18
+[INFO ] [2022-11-20 10:22:53,843] Register - Step 03.2: Select Date of birth with Month value = Aug
+[INFO ] [2022-11-20 10:22:54,165] Register - Step 03.3: Select Date of birth with Year value = 1996
+[INFO ] [2022-11-20 10:22:55,716] Register - Step 04: Enter to  Email Textbox with value = null194@gmail.com
+[INFO ] [2022-11-20 10:22:55,900] Register - Step 05: Select checkbox Newsletter 
+[INFO ] [2022-11-20 10:22:55,975] Register - Step 05: Enter to password Textbox with value = 123456
+[INFO ] [2022-11-20 10:22:56,094] Register - Step 06: Enter to confirm password  Textbox with value = 123456
+[INFO ] [2022-11-20 10:22:56,238] Register - Step 07: Click To Register Button
+[INFO ] [2022-11-20 10:22:57,050] Register - Step 08: Verify register success message is displyed
+[INFO ] [2022-11-20 10:22:57,117]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:22:57,117] Register - Step 09: Click to logout link
+[INFO ] [2022-11-20 10:22:57,949] Login - Step 01: Navigate to open login page
+[INFO ] [2022-11-20 10:22:58,410] Login - Step 02: Enter to Email Textbox with value = null194@gmail.com
+[INFO ] [2022-11-20 10:22:58,542] Login - Step 03: Enter to Password Textbox with value = 123456
+[INFO ] [2022-11-20 10:22:58,672] Login - Step 04: Click on Login Button 
+[INFO ] [2022-11-20 10:22:59,316] Login - Step 05: Verify My Account Link is displayed
+[INFO ] [2022-11-20 10:22:59,395]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:22:59,395] Login - Step 06: Navigate to my account page
+[INFO ] [2022-11-20 10:23:00,137] Login - Step 07: Verify CustomerInfoPage is Displayed
+[INFO ] [2022-11-20 10:23:00,205]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-11-20 10:23:00,206]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-11-20 10:23:00,403] My Account - Step 01: Verify FirstName value is correct
