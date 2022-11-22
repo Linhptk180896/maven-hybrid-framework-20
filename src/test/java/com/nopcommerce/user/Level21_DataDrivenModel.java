@@ -22,9 +22,11 @@ public class Level21_DataDrivenModel extends BaseTest{
 	String email;
 	String notFoundEmail;
 	String invalidEmail;
+	
 //	BasePage basePage; //--> kế thừa BasePage rồi nên không cần khai báo
+	
 	private UserHomePageObject homePage;
-	private UserRegisterPageObject registerPage;
+	private UserRegisterPageObject registerPage; 
 	private UserLoginPageObject loginPage;
 	private UserCustomerInfoPageObject customerInfoPage;
 

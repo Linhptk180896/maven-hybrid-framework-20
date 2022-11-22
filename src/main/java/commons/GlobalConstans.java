@@ -32,5 +32,9 @@ public class GlobalConstans {
 	public static final int SHORT_TIMEOUT = 5;
 	public static final int RETRY_TEST_FAIL = 3;
 	
+	public static final String USER_TESTING_URL ="https://demo.nopcommerce.com/login?returnUrl=%2F";
+
+	
+	
 	
 }

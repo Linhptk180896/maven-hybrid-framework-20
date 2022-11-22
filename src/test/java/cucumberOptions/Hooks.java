@@ -89,7 +89,7 @@ public class Hooks {
 				Runtime.getRuntime().addShutdownHook(new Thread(new BrowserCleanup()));
 			}
 
-			driver.get(Constants.DEV_URL);
+			driver.get(GlobalConstans.DEV_URL);
 			driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 			log.info("------------- Started the browser -------------");
 		}
